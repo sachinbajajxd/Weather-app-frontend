@@ -1,6 +1,6 @@
 # Weather App (Frontend)
 
-![Home Page](/home.png)
+![Home Page](/Home.png)
 
 This is the frontend repository for the Weather App project. It provides a user-friendly interface to access weather information for different locations. The Weather App is built using MERN stack, tailwindCSS and open weather API, and it fetches weather data from a [backend API](https://weather-app-2nid.onrender.com).
 
